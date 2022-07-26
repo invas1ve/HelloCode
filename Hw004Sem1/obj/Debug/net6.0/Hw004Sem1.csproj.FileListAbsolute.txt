@@ -1,0 +1,15 @@
+C:\Users\Паша\Desktop\HelloCode\Hw004Sem1\bin\Debug\net6.0\Hw004Sem1.exe
+C:\Users\Паша\Desktop\HelloCode\Hw004Sem1\bin\Debug\net6.0\Hw004Sem1.deps.json
+C:\Users\Паша\Desktop\HelloCode\Hw004Sem1\bin\Debug\net6.0\Hw004Sem1.runtimeconfig.json
+C:\Users\Паша\Desktop\HelloCode\Hw004Sem1\bin\Debug\net6.0\Hw004Sem1.dll
+C:\Users\Паша\Desktop\HelloCode\Hw004Sem1\bin\Debug\net6.0\Hw004Sem1.pdb
+C:\Users\Паша\Desktop\HelloCode\Hw004Sem1\obj\Debug\net6.0\Hw004Sem1.csproj.AssemblyReference.cache
+C:\Users\Паша\Desktop\HelloCode\Hw004Sem1\obj\Debug\net6.0\Hw004Sem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Паша\Desktop\HelloCode\Hw004Sem1\obj\Debug\net6.0\Hw004Sem1.AssemblyInfoInputs.cache
+C:\Users\Паша\Desktop\HelloCode\Hw004Sem1\obj\Debug\net6.0\Hw004Sem1.AssemblyInfo.cs
+C:\Users\Паша\Desktop\HelloCode\Hw004Sem1\obj\Debug\net6.0\Hw004Sem1.csproj.CoreCompileInputs.cache
+C:\Users\Паша\Desktop\HelloCode\Hw004Sem1\obj\Debug\net6.0\Hw004Sem1.dll
+C:\Users\Паша\Desktop\HelloCode\Hw004Sem1\obj\Debug\net6.0\refint\Hw004Sem1.dll
+C:\Users\Паша\Desktop\HelloCode\Hw004Sem1\obj\Debug\net6.0\Hw004Sem1.pdb
+C:\Users\Паша\Desktop\HelloCode\Hw004Sem1\obj\Debug\net6.0\Hw004Sem1.genruntimeconfig.cache
+C:\Users\Паша\Desktop\HelloCode\Hw004Sem1\obj\Debug\net6.0\ref\Hw004Sem1.dll
